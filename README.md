@@ -1,5 +1,3 @@
-# ML-AI-Practical-Application-2
-
 Berkeley Haas ML AI Practical Application 2<br>
 Yash Bhargava<br>
 09/09/2024
